@@ -10,7 +10,7 @@
 <?php
 		
 
-		$ip = "127.0.0.1";
+		$ip = "172.16.44.159";
 		$user = "root"; 
 		$pw = "Cherub2412";
 		$database = "arbeitsjournal";
