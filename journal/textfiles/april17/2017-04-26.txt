@@ -1,0 +1,1 @@
+Heute möchte ich an der Lehrlingsseite die Zeiterfassung noch ein wenig verbessern.;;Ich habe bei der Lehrlingsseite die Zeitrechnung für das Total repariert und den Code ein wenig verbessert.;;Ich habe mein Ziel erreicht.;;Hilfe hatte ich keine.;;

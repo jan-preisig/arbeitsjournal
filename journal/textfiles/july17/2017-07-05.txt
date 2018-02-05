@@ -1,0 +1,1 @@
+Heute möchte ich weiter an der MongoDB arbeiten.;;Ich habe heute begonnen an meinem Java Programm zu arbeiten. Neu habe ich gelernt, wie man ganz einfach etwas in die DB einfügt und wie man etwas sucht und ausgibt.;;Ich habe mein Ziel erreicht.;;Heute hatte ich keine Hilfe.;;

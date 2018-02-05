@@ -1,0 +1,1 @@
+Heute möchte ich noch das Layout der Lehrlingsseite verbessern und die Zeiterfassung etwas verschönern.;;Ich habe mit bootstrap noch einiges angepasst und das von Thomas empfohlene flex display angewendet. ein tolles Tutorial gibt es auf <a href="http://flexboxfroggy.com/" target="blank_">Flexbox Froggy</a>;;Mein Ziel habe ich erreicht.;;Ich hatte etwas hilfe von Thomas.;;

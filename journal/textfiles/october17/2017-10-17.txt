@@ -1,0 +1,1 @@
+﻿Heute möchte ich die Hpos und Vpos mit den Colspans verknüpfen und das Problem mit der row Farbe beheben.;;Ich habe zuerst noch die Colspan und Rowspan mit der Hpos und Vpos verknüpft und habe dann am Nachmittag mit Ruben das Problem mit der Rowfarbe gelöst.;;Mein Ziel habe ich erreicht.;;Hilfe hatte ich von Ruben.;;

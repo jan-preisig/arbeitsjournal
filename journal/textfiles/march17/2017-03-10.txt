@@ -1,0 +1,1 @@
+Heute werden wir das Testing mit der TestLink-Applikation anschauen.;;Wir haben am Morgen mit Cyrill angeschaut, wie der <span style="color:red;">TestLink</span> funktioniert und wie man ihn anwendet. Dann haben wir begonnen den Release 9.1.0 vom 2Link zu testen.;;Mein Ziel habe ich erreicht.;;Hilfe hatten wir von Cyrill.;;

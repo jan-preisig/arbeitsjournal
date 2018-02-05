@@ -1,0 +1,1 @@
+Heute ist es mein Ziel, dass wir mit dem Testen des neuen Releases fertig werden.;;Wir haben heute fast alle plattformen mit dem <span style="color: red;">Release 9.1.0.2 getestet.</span>;;Wir sind mit dem Testen leider nicht ganz fertig geworden.;;Hilfe hatte ich keine.;;

@@ -1,0 +1,1 @@
+Heute möchte ich das Programm welches die JavaFiles durchsucht fertigstellen.;;Ich habe von Thomas noch den tipp mit dem recursive durchsuchen bekommen und als ich damit fertig war, habe ich begonnen den File walker von Java 8 an zuschauen.;;Ich habe mein Ziel für heute erreicht.;;Hilfe hatte ich von Thomas.;;

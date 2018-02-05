@@ -1,0 +1,1 @@
+Heute möchte ich weiter am Timer Button arbeiten.;;Ich habe mehrheitlich am Zeiterfassungssystem der Lehrlingsseit gearbeitet. <span style="color: red;">Ich habe das erste mal mit Cookies gearbeitet</span> und diese Verwendet um mir zu merken, ob der Timer läuft oder nicht.;;Mein Ziel habe ich erreicht.;;Hilfe hatte ich keine.;;

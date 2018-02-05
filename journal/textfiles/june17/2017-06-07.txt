@@ -1,0 +1,1 @@
+Heute möchte ich mir die MongoDB nochmals ansehen und versuchen aufzusetzen.;;Ich habe die <a href="https://www.mongodb.com/download-center#community">MongoDB</a> mal heruntergeladen und versucht zu installieren. Es hat aber auf meinem Computer nicht funktioniert.;;Ich habe mein Ziel nicht erreicht.;;Ich hatte heute keine hilfe.;;

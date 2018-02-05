@@ -1,0 +1,1 @@
+﻿Ich möchte heute weiter am Auftrag von Ruben arbeiten.;;Heute habe ich weiter am Auftrag gearbeitet. Ich habe die Funktion hinzugefüt, dass sich die Vpos und Hpos anpassen wenn ein AttributeShow gelöst oder hinzugefügt wird.;;Mein Ziel habe ich erreicht.;;Hilfe hatte ich von Ruben.;;

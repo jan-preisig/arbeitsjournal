@@ -1,0 +1,1 @@
+Heute möchte ich das PHP file für die Fehler datenbank noch so ändern, dass es im Enum kene Fehler mehr gibt.;;Ich habe das PHP file abgeändert, nun erstellt es eine Kopie der datenbank und sucht darin die doppelten einträge. Diese werden dann durchnummeriert.;;Mein Ziel habe ich für heute erreicht.;;Hilfe hatte ich keine.;;

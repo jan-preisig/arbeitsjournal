@@ -1,0 +1,1 @@
+Ich möchte heute die PHP seite soweit bringen, dass sie mir das Enum mit den Konstanten in ein Textfile schreibt.;;Ich schreibe jetzt alle veränderten einträge mit php in ein Textfile, das Enum hat aber noch viele Fehler.;;Mein Ziel habe ich noch nicht ganz erreicht, das es noch nicht vollständig funktioniert.;;Hilfe habe ich heute keine gebraucht.;;

@@ -1,0 +1,1 @@
+Heute möchte ich die Tests fertig schreiben, damit ich sie Cyrill vorstellen kann und wir heute oder am Mittwoch mit dem Testen des Release 9.3.0.2 beginnen können.;;Ich habe mein Ziel noch nicht ganz erreicht. Ich bin heute mit den Tests noch nicht ganz fertig geworden.;;Hilfe hatte ich von Cyrill beim Schreiben der Tests.;;

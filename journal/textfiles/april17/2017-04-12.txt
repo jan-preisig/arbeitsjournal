@@ -1,0 +1,1 @@
+Heute möchte ich mit der Fibonacci aufgabe beginnen.;;Ich habe mit der <span style="color: red;">Fibonacci aufgabe</span> begonnen und mir im Internet noch eine Formel zur Berechnung der Fibonacci Zahlen gesucht.;;Ziel Erreicht.;;Hilfe hatte ich keine.;;

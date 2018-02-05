@@ -1,0 +1,1 @@
+Heute möchte ich mir die Aufgabe mit den Boilerplates anschauen und daran weiterarbeiten.;;Ich habe heute am Java zum suchen und ersetzen der <span style="color: red;">Boilerplate</span> IDs gearbeitet.;;Ich bin weniger weit gekommen, als ich gehofft habe.;;Hilfe hatte ich keine.;;

@@ -1,0 +1,1 @@
+Heute möchte ich versuchen aus dem AP Edit im Webclient das ng-template zu entfernen.;;Ich habe heute nochmals das ng-template und den itemFormatter angeschaut, komme hier aber noch nicht ganz draus.;;Mein Ziel habe ich nicht erreicht.;;Hilfe hatte ich keine.;;

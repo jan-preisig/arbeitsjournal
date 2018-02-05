@@ -1,0 +1,1 @@
+Heute möchte ich weiter an Meinem Java Programm zu den Boilerplates arbeiten.;;Ich habe weiter an meinem <span style="color: red;">Boilerplate Programm</span> gearbeitet und mir ebenfalls das Factory Pattern nochmals angesehen.;;Ich habe mein Ziel für heute erreicht.;;Hilfe hatte ich keine.;;

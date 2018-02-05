@@ -1,0 +1,1 @@
+﻿Heute möchte ich auf der TIE website ein menu erstellen, welches Responsive ist.;;Ich habe sehr lange nach verschiedenen menus und beispielen gesucht. Schlussendlich habe ich dann eine Lösung von Bootstrap genommen und diese leicht abgeändert um unser Firmenloge hinzufügen zu können.;;Mein Ziel für heute habe ich erreicht.;;Hilfe hatte ich keine.;;

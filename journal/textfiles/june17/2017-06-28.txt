@@ -1,0 +1,1 @@
+Heute möchte ich die Tests ganz fertig schreiben und dann mit dem Testen beginnen.;;Ich habe heute die Tests fertig geschrieben und dann kurz mit Cyrill besprochen. Danach habe ich noch den TSClient im Chrome getestet.;;Ich habe mein Ziel für heute erreicht.;;Hilfe hatte ich von Cyrill beim erstellen der Tests.;;

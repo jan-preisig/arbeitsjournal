@@ -1,0 +1,1 @@
+Heute möchte ich die Zeiterfassung fertig machen, dass wir sie ab Mittwoch verwenden können.;;Ich habe heute weiter an der Zeiterfassung gearbeitet. Zusätzlich habe ich bei den Benutzern mit Lehrmeister status die möglichkeit hinzugefügt, <span style="color: red;">zeiten für alle Benutzer manuell einzutragen.</span>;;Ich habe mein Ziel erreicht.;;Hilfe hatte ich keine.;;

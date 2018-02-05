@@ -1,0 +1,1 @@
+Heute ist es mein Ziel den Fehler zu beheben, dass auch Zahlen ohne Boilerplateaufruf ersetzt werden.;;Ich habe heute den <span style="color: red;">Fehler behoben, dass zu viele IDs ersetzt werden.</span>;;Ich habe mein Ziel erreicht.;;Ich hatte keine hilfe.;;

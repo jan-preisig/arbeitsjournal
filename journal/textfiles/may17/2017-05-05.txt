@@ -1,0 +1,1 @@
+Heute möchte ich am Morgen etwas an der Lehrlingsseite arbeiten. Am Nachmittag habe ich frei.;;Ich habe mit Ruben die <span style="color: red;">Zeiterfassung</span> so angepasst, dass die <span style="color: red;">vergangenen Feiertage berücksichtigt</span> werden und die Zeitrechnung wieder korrekt ist.;;Mein Ziel habe ich erreicht.;;Hilfe hatte ich von Ruben.;;

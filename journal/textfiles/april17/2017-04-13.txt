@@ -1,0 +1,1 @@
+Heute möchte ich die Fibonacci aufgabe fertigstellen und damit beginnen die Zeiterfassung zu reparieren.;;Ich habe das beispiel mit der Formel zur Fibonacci-berechnung ausprogrammiert und noch etwas an der Lehrlingsseite gearbeitet.;;Ich habe meine Ziele erreicht.;;Hilfe hatte ich keine.;;

@@ -1,0 +1,181 @@
+body {
+	font-family: arial;
+	font-size: 20px;
+	/*background-image: url('../img/binary1.jpg');*/
+	background-color: #303032;
+	color: white;
+}
+#wrapper{
+	background: rgba(100, 100, 100, 0.7);
+	width: 80%;
+	min-height: 100%;
+	margin: 0 auto;
+}
+
+#dateTableWrapper{
+	height: 500px;
+	overflow-y: scroll;
+}
+
+a{
+	text-decoration: none;
+	color: #00C0FF;
+}
+h1{
+	text-align: center;
+	color: #00C0FF;
+}
+button, select{
+	cursor: pointer;
+}
+
+
+.hide{
+	display: none;
+}
+.show{
+	display: flex;
+}
+.month {
+	margin: auto;
+	margin-top: 5px;
+	background-color: #1F1F1F;
+	border: solid 2px;	
+	border-collapse: collapse;
+	width: 100%;
+	height: auto;
+
+}
+
+.month tr td {	
+	border: solid 4px;
+	border-color: black;
+	border-collapse: collapse;
+	text-align: center;
+	height: 20px;
+}
+.month tr:hover{
+	background-color: #3F3F3F;
+}
+
+.green:hover {
+	background-color: #3F3F3F;
+}
+
+#header{
+	height: 50px;
+	width: 100%;
+	background-color: #000;
+	
+}
+.open{
+	margin-top: 15px;
+	height: 50px;
+	width: 100%;
+	background-color: #000;
+	font-size: 30px;
+	text-align: center;
+	cursor: pointer;
+}
+#footer{
+	margin-top: 15px;
+	height: 50px;
+	width: 100%;
+	background-color: #000;
+}
+#footer:hover {
+	box-shadow: 5px 10px 5px grey;
+	border-radius: 5px;
+}
+#header:hover{
+	box-shadow: 5px 10px 5px grey;
+	border-radius: 5px;
+}
+.open:hover{
+	box-shadow: 5px 5px 5px grey;
+	border-radius: 5px;
+}
+
+.link:hover{
+	color: lime;
+	text-decoration: none;
+}
+a:visited{
+	color: #00C0FF;
+}
+#date_choose{
+	height: 80px;
+	width: 100%;
+	font-size: 25px;
+	color: white;
+	background: black;
+	border: none;
+	margin-right: 5px;
+}
+#go_btn{
+	height: 80px;
+	width: 80px;
+	border: none;
+	box-shadow: none;
+	background: black;
+	color: white;
+	font-size: 25px;
+}
+
+/*Style Journal*/
+
+.daytable {
+	margin: auto;
+	border: solid 2px;	
+	border-collapse: collapse;
+	width: 100%;
+	min-height: 300px;
+	background: #1F1F1F;
+}
+
+.daytable tr td {	
+	border: solid 2px;
+	border-color: black;
+	border-collapse: collapse;
+	padding: 10px;
+}
+.marked{
+	background: #97FFE4;
+	color: black;
+}
+#weiter, #zurück, .gotoday{
+	border: none;
+	background: none;
+	color: #00C0FF;
+	font-size: 20px;
+}
+.subtitles{
+	width: 25%;
+}
+.buttonCell{
+	text-align: center;
+}
+footer{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	background-color: black;
+}
+#totop{
+	margin: auto 5px;
+}
+
+#picture {
+	width: 100%;
+	margin-top: 5px;
+	background-color: orange;
+}
+#picture img {
+	width: 60%;
+	margin-left: 20%;
+	border: solid 2px;
+	border-color: black;
+}
