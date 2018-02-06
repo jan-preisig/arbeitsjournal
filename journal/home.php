@@ -14,7 +14,7 @@ include("db_connection.php");
 	<h1>Home</h1>
 	<form action="" method="POST">
 		<select name=date_choose id="date_choose" onchange="this.form.submit()">
-			<option value="default" selected disabled>tag auswählen...</option>}
+			<option value="default" selected disabled>bitte Tag auswählen...</option>}
 			option
 			<?php
 			function redirect($url){
